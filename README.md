@@ -1,16 +1,14 @@
-## Hi there 👋
+<h2 align="center">✨Olá, eu sou Bruna Ferreira ✨ 
+  
+   Bacharelanda em Ciência da Computação pela UFAPE
+</h1>
 
-<!--
-**brunagcferreira/brunagcferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages and Tools
+[![My Skills](https://skillicons.dev/icons?i=java,spring,c,cpp,python,linux,figma&theme=dark)](https://skillicons.dev)
 
-Here are some ideas to get you started:
+<p>&nbsp;
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brunagcferreira&show_icons=true&locale=en&layout=compact&theme=dracula&langs_count=10&card_width=325" alt="brunagcferreira" />
+</p>
+  
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
